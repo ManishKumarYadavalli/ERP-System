@@ -22,7 +22,7 @@ cd erp-system
 npm install
 ```
 
-4.Start the application:
+4. Start the application:
 
 ```
 npm start
