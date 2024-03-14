@@ -28,7 +28,7 @@ npm install
 npm start
 ```
 
-5. And it will direct to the browser to access the Simplified ERP System.
+5. And it will direct to the browser to access the Simplified ERP System application.
 
 ## Screenshots :camera_flash:
 
